@@ -1,0 +1,9 @@
+c:\users\ramon\documents\visual studio 2015\Projects\SpeechFun\SpeechFun\bin\Debug\SpeechFun.exe.config
+c:\users\ramon\documents\visual studio 2015\Projects\SpeechFun\SpeechFun\bin\Debug\SpeechFun.exe
+c:\users\ramon\documents\visual studio 2015\Projects\SpeechFun\SpeechFun\bin\Debug\SpeechFun.pdb
+c:\users\ramon\documents\visual studio 2015\Projects\SpeechFun\SpeechFun\obj\Debug\SpeechFun.csprojResolveAssemblyReference.cache
+c:\users\ramon\documents\visual studio 2015\Projects\SpeechFun\SpeechFun\obj\Debug\SpeechFun.FormMain.resources
+c:\users\ramon\documents\visual studio 2015\Projects\SpeechFun\SpeechFun\obj\Debug\SpeechFun.Properties.Resources.resources
+c:\users\ramon\documents\visual studio 2015\Projects\SpeechFun\SpeechFun\obj\Debug\SpeechFun.csproj.GenerateResource.Cache
+c:\users\ramon\documents\visual studio 2015\Projects\SpeechFun\SpeechFun\obj\Debug\SpeechFun.exe
+c:\users\ramon\documents\visual studio 2015\Projects\SpeechFun\SpeechFun\obj\Debug\SpeechFun.pdb
